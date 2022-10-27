@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align = "center"> Olá! Bem-vindo ao meu git-hub </h2>
 
-<!--
-**Elias-Lima-code/Elias-Lima-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Elias Lima.
+Curso Gestão da Tecnologia da informação na Una.
 
-Here are some ideas to get you started:
+&nbsp;Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 21 anos
+Um dos meus objetivos e conhecer tudo sobre python, pois e a minha liguagem favorita <img src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="30"/>.
+Tenho um pouco de conhecimento js, html, css e bootstrap.
+No meu tempo livre gosto de jogar, assistir séries e ler.
+
+<p align="center">
+  <a href="eliaslima.rd@gmail.com"><img
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+      height=30></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/elias-lima-r/" target="_blank"><img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank" height=30></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
