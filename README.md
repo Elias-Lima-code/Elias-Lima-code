@@ -3,7 +3,7 @@
 Meu nome é Elias Lima.
 Curso Gestão da Tecnologia da informação na Una.
 Tenho 21 anos.
-Um dos meus objetivos e conhecer tudo sobre python, pois e a minha liguagem favorita <img width="20" src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp">.
+Um dos meus objetivos e conhecer tudo sobre python, pois e a minha liguagem favorita <img width="20" src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp">.<br>
 No meu tempo livre gosto de jogar, assistir séries e ler.
 
 ---
@@ -14,7 +14,7 @@ Languages and Tools :
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="SQL" height="30" width="40" color="white" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 
 ---
