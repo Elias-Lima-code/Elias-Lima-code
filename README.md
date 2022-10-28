@@ -3,7 +3,7 @@
 Meu nome é Elias Lima.
 Curso Gestão da Tecnologia da informação na Una.
 Tenho 21 anos.
-Um dos meus objetivos e conhecer tudo sobre python, pois e a minha liguagem favorita <img width="10" src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp">.
+Um dos meus objetivos e conhecer tudo sobre python, pois e a minha liguagem favorita <img width="20" src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp">.
 No meu tempo livre gosto de jogar, assistir séries e ler.
 
 ---
