@@ -3,7 +3,7 @@
 Meu nome é Elias Lima.
 Curso Gestão da Tecnologia da informação na Una.
 Tenho 21 anos.
-Um dos meus objetivos e conhecer tudo sobre python, pois e a minha liguagem favorita <img src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="50"/>.
+Um dos meus objetivos e conhecer tudo sobre python, pois e a minha liguagem favorita <img src="http://www.escueladevrock.com/" width="50"/>.
 No meu tempo livre gosto de jogar, assistir séries e ler.
 
 ---
@@ -17,7 +17,6 @@ Languages and Tools :
   <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
     <p> <br /> </p> 
-
 ---
 
 <div>
