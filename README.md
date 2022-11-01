@@ -19,8 +19,6 @@
 
 - Tenho 21 anos.
 
-- Um dos meus objetivos e conhecer tudo sobre python, pois e a minha linguagem  favorita <img width="20" src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp">.
-
 - No meu tempo livre gosto de jogar, assistir séries e ler.
 
 ---
