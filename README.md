@@ -1,17 +1,15 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/200w.webp?cid=ecf05e47xe49abmg340qm4nnxxigyaj9hz0u420dog8ik5ne&rid=200w.webp&ct=s" width="100"/>
-</div>
+
 <div id="badges">
-<p align="center">
-  <a href="eliaslima.rd@gmail.com"><img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
-      height=30></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/elias-lima-r/" target="_blank"><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank" height=30></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-  <img src="https://komarev.com/ghpvc/?username=Elias-Lima-code&style=flat-square&color=blue" alt="" align = "center"/>
-   
+  <a href="https://www.linkedin.com/in/elias-lima-r/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="eliaslima.rd@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"> 
+  </a>
+   </div>
+  <img src="https://komarev.com/ghpvc/?username=Elias-Lima-code&style=flat-square&color=blue" alt=""/>
 </div>
 <h2 align = "center"> Olá! Bem-vindo ao meu github </h2>
 
@@ -22,6 +20,8 @@
 - Tenho 21 anos.
 
 - No meu tempo livre gosto de jogar, assistir séries e ler.
+
+- Inglês Intermediário 
 
 ---
 <h4>Languages and Tools :</h4>
