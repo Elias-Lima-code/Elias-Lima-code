@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/elias-lima-r/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank" height=30></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Elias-Lima-code&style=flat-square&color=blue" alt=""/>
 </p>
+  <img src="https://komarev.com/ghpvc/?username=Elias-Lima-code&style=flat-square&color=blue" alt="" align = "center"/>
    
 </div>
 <h2 align = "center"> Olá! Bem-vindo ao meu github </h2>
