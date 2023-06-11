@@ -17,7 +17,7 @@
 
 - Curso Gestão da Tecnologia da informação na Una.
 
-- Tenho 21 anos.
+- Tenho 22 anos.
 
 - No meu tempo livre gosto de jogar, assistir séries e ler.
 
