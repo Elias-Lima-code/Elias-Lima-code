@@ -15,7 +15,7 @@
 
 <h4>Sobre mim</h4>
 
-- Curso Gestão da Tecnologia da informação na Una.
+- Formado em Gestão da Tecnologia da informação na Una.
 
 - Tenho 22 anos.
 
