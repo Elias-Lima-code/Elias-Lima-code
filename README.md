@@ -15,11 +15,11 @@
 
 <h4>Sobre mim</h4>
 
-- Formado em Gestão da Tecnologia da informação na Una.
+- Graduado em Gestão da Tecnologia da informação na Una.
 
 - Tenho 22 anos.
 
-- No meu tempo livre gosto de jogar, assistir séries e ler.
+- No meu tempo livre gosto de trabalhar em projetos pessoais, jogar, assistir séries e ler.
 
 - Inglês Intermediário 
 
