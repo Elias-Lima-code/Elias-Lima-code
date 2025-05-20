@@ -17,7 +17,7 @@
 
 - Graduado em Gestão da Tecnologia da informação na Una.
 
-- Tenho 23 anos.
+- Tenho 24 anos.
 
 - No meu tempo livre gosto de trabalhar em projetos pessoais, jogar, assistir séries e ler.
 
